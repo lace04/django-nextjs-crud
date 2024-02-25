@@ -2,6 +2,16 @@
 
 Este proyecto es una aplicación CRUD que utiliza **Django** como backend y **Next.js** como frontend. Permite crear, leer, actualizar y eliminar tareas.
 
+![basic](https://github.com/lace04/django-nextjs-crud/assets/73793929/5b05cca3-1cfd-41cf-b054-c99b0ecb055d)
+
+# 💻 Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+
 ## Backend (Django)
 
 1. **Configuración del entorno virtual:**
